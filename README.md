@@ -1,18 +1,18 @@
 
-<p align="center">                                                  𝐊𝐈𝐁𝐎𝐑𝐄-𝐂𝐌𝐃 
+<p align="center">                                                  𝐑𝐀𝐇𝐌𝐀𝐍𝐈-𝐌𝐃
   
 
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31">
-    <img alt=Support height="390" src="https://files.catbox.moe/t9jjm9.jpg"> 
+    <img alt=Support height="390" src="[https://files.catbox.moe/t9jjm9.jpg](https://files.catbox.moe/aktbgo.jpg)"> 
     </p>
  
  
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+KIBORE CMD+MADE+IN+TANZANIA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+RAHMANI MD+MADE+IN+TANZANIA" alt="Typing SVG" /></a>
 
 
 
@@ -70,7 +70,7 @@ For any issues or to stay updated, use the options below:
 
 
 
-𝚃𝙷𝙰𝙽𝙺 𝚈𝙾𝚄 𝙵𝙾𝚁 𝙲𝙷𝙾𝙾𝚂𝙸𝙽𝙶 𝐊𝐈𝐁𝐎𝐑𝐄 𝐂𝐌𝐃 𝐁𝐎𝐓
+𝚃𝙷𝙰𝙽𝙺 𝚈𝙾𝚄 𝙵𝙾𝚁 𝙲𝙷𝙾𝙾𝚂𝙸𝙽𝙶 𝐑𝐀𝐇𝐌𝐀𝐍𝐈 𝐌𝐃 𝐁𝐎𝐓
 
 
 
@@ -78,4 +78,4 @@ For any issues or to stay updated, use the options below:
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+KIBORE CMD;RELEASED+26.3.2025" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+RAHMANI MD;RELEASED+26.10.2024" alt="Typing SVG" /></a>
