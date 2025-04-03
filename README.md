@@ -56,7 +56,7 @@
 For any issues or to stay updated, use the options below:  
 
 ✅ Contact Me on WhatsApp  
-[![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255613300056)  
+[![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255693629079)  
 
 <br>
 
